@@ -21,3 +21,4 @@ nltk
 textatistic
 spacy
 nltk.download('stopwords')
+nltk.download('punkt')
