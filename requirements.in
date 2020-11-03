@@ -4,3 +4,7 @@ seaborn==0.10.1
 pandas
 sys
 random
+textblob
+pathlib
+nltk
+
