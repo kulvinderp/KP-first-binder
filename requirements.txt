@@ -20,3 +20,4 @@ textblob
 nltk
 textatistic
 spacy
+nltk.download('stopwords')
