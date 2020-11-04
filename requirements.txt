@@ -20,5 +20,4 @@ textblob
 nltk
 textatistic
 spacy
-nltk.download('stopwords')
-nltk.download('punkt')
+nltk.download('popular')
