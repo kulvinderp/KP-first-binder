@@ -7,5 +7,7 @@ random
 pathlib
 textblob
 nltk
+nltk.downloader punkt
+nltk.downloader stopwords
 textatistic
 spacy
