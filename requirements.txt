@@ -20,4 +20,6 @@ textblob
 nltk
 textatistic
 spacy
-
+wordcloud
+imageio
+sklearn.datasets
