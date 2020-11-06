@@ -6,6 +6,7 @@ sys
 random
 pathlib
 textblob
+textblob.download_corpora
 nltk
 nltk.downloader punkt
 nltk.downloader stopwords
