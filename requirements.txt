@@ -17,7 +17,9 @@ seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 pathlib
 sys
+random
 textblob
+textblob.download_corpora
 nltk
 textatistic
 spacy
