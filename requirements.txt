@@ -23,3 +23,14 @@ spacy
 wordcloud
 imageio
 sklearn
+keras
+opencv-python
+opencv-contrib-python
+tensorflow
+mrcnn
+skimage
+scikit-image
+tflearn
+pandas_profiling
+pafy
+gensim
