@@ -28,7 +28,6 @@ opencv-python
 opencv-contrib-python
 tensorflow
 mrcnn
-skimage
 scikit-image
 tflearn
 pandas_profiling
